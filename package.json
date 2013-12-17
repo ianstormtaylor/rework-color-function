@@ -1,7 +1,7 @@
 {
   "name": "rework-color-function",
   "repository": "git://github.com/ianstormtaylor/rework-color-function.git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "Implements Tab Atkins's proposed color function in CSS.",
   "keywords": [
