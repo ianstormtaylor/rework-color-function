@@ -1,3 +1,7 @@
+0.1.0 - December 24, 2013
+-------------------------
+* add `position` to errors
+
 0.0.3 - December 17, 2013
 -------------------------
 * fix assuming declarations have a value
