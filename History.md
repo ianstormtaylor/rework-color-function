@@ -1,3 +1,8 @@
+0.1.2 - December 25, 2013
+-------------------------
+* upgrade `css-color-function` to `0.1.0`
+* fix syntax error
+
 0.1.1 - December 24, 2013
 -------------------------
 * throw for no closing parentheses
