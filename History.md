@@ -1,3 +1,7 @@
+0.1.1 - December 24, 2013
+-------------------------
+* throw for no closing parentheses
+
 0.1.0 - December 24, 2013
 -------------------------
 * add `position` to errors
