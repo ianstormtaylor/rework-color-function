@@ -8,3 +8,11 @@ body {
   background-color: color(red tint(50%));
   border-color: color(hsla(125, 50%, 50%, .4) hue(200));
 }
+
+@media (min-width: 10px) {
+  body {
+    color: color(red);
+    background-color: color(red tint(50%));
+    border-color: color(hsla(125, 50%, 50%, .4) hue(200));
+  }
+}

@@ -5,12 +5,12 @@ var fs = require('fs');
 var path = require('path');
 var rework = require('rework');
 
-describe('rework-color-function', function () {
+describe('rework-color-function', function(){
   it('should work', function () {
     var input = fixture('input');
     var output = fixture('output');
     var css = rework(input).use(color).toString().trim();
-    assert(css == output);
+    assert.equal(css, output);
   });
 });
 
@@ -20,6 +20,6 @@ describe('rework-color-function', function () {
  * @param {String} name
  */
 
-function fixture (name) {
+function fixture(name){
   return fs.readFileSync(path.resolve(__dirname, name + '.css'), 'utf8').trim();
 }

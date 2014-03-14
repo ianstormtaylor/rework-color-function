@@ -1,3 +1,8 @@
+
+1.0.0 - March 14, 2013
+----------------------
+* add media query support
+
 0.1.2 - December 25, 2013
 -------------------------
 * upgrade `css-color-function` to `0.1.0`

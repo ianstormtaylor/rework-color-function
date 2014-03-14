@@ -1,6 +1,6 @@
 {
   "name": "rework-color-function",
-  "repository": "git://github.com/ianstormtaylor/rework-color-function.git",
+  "repository": "ianstormtaylor/rework-color-function",
   "version": "1.0.0",
   "license": "MIT",
   "description": "Implements Tab Atkins's proposed color function in CSS.",
@@ -9,11 +9,10 @@
     "color",
     "function"
   ],
-  "devDependencies": {
-    "mocha": "*",
-    "rework": "*"
-  },
   "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
   "dependencies": {
     "css-color-function": "0.1.0",
     "balanced-match": "0.0.0"
