@@ -1,6 +1,6 @@
 # rework-color-function
   
-  Implements [Tab Atkins](https://github.com/tabatkins)'s [proposed color function](http://rawgithub.com/tabatkins/specs/gh-pages/css-color/index.html#modifying-colors) in CSS.
+  Implements [Tab Atkins](https://github.com/tabatkins)'s [proposed color function](http://dev.w3.org/csswg/css-color/#modifying-colors) in CSS.
 
 ## Installation
 
