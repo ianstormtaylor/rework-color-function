@@ -2,6 +2,7 @@
 1.1.1 - August 26, 2014
 -----------------------
 * bumped dep css-color-function to 1.1.1
+* added tests for nested color functions
 
 1.0.0 - March 14, 2013
 ----------------------
