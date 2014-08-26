@@ -7,6 +7,10 @@ body {
   color: rgb(255, 0, 0);
   background-color: rgb(255, 128, 128);
   border-color: rgba(64, 149, 191, 0.4);
+  /* nested color functions */
+  border-color: rgb(138, 138, 138);
+  /* inlined adjuster functions */
+  border-color: rgb(138, 138, 138);
 }
 
 @media (min-width: 10px) {
@@ -14,5 +18,9 @@ body {
     color: rgb(255, 0, 0);
     background-color: rgb(255, 128, 128);
     border-color: rgba(64, 149, 191, 0.4);
+    /* nested color functions */
+    border-color: rgb(138, 138, 138);
+    /* inlined adjuster functions */
+    border-color: rgb(138, 138, 138);
   }
 }
