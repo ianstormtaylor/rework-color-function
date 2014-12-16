@@ -15,7 +15,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "css-color-function": "1.1.1",
+    "css-color-function": "~1.1.2",
     "balanced-match": "0.0.0"
   }
 }
