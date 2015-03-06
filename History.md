@@ -1,4 +1,8 @@
 
+1.2.1 - March 6, 2015
+---------------------
+* upgrade `css-color-function` to `1.2.0` for `contrast` support
+
 1.2.0 - December 23, 2014
 -------------------------
 * add support for keyframes
